@@ -1,8 +1,46 @@
 {
-  "posts": [
+  "pustaka": [
     {
-      "id": 1,
-      "title": "hello"
+      "book_id": "1",
+      "provinces_code": "99",
+      "cities_code": "77",
+      "institution_types_code": "2",
+      "institution_serial_no": "00",
+      "year": "2021",
+      "title": "Capita Selecta Zakat",
+      "short_desc": "Menulis hakikatnya bekerja untuk keabadian. Apa yang diucapkan akan lenyap, apa yang ditulis akan meninggalkan jejak. Buku adalah anak ruhani manusia. Membaca adalah sebuah aktivitas berpikir, aktivitas budaya dan salah satu ciri bangsa yang berkebudayaan tinggi. Di era digital buku tetap dibutuhkan. Buku mengisi tempat yang tak bisa digantikan oleh media mana pun.",
+      "synopsis": "Menulis hakikatnya bekerja untuk keabadian. Apa yang diucapkan akan lenyap, apa yang ditulis akan meninggalkan jejak. Buku adalah anak ruhani manusia. Membaca adalah sebuah aktivitas berpikir, aktivitas budaya dan salah satu ciri bangsa yang berkebudayaan tinggi. Di era digital buku tetap dibutuhkan. Buku mengisi tempat yang tak bisa digantikan oleh media mana pun.\n\nSalah satu mentor saya dalam belajar agama dan sahabat ayah saya, almarhum Bapak Dokter Haji Ali Akbar, tokoh pendiri dan Dekan Sekolah Tinggi Kedokteran YARSI Jakarta yang pertama, kini Universitas YARSI, pernah berpesan ketika itu saya masih SMA, \"Teruslah menulis dengan niat mendapatkan balasan pahala dan keridhaan Allah, walaupun tidak best seller bukunya.\"\nSaya memperoleh idealisme menulis dari situ. Buku tentu untuk dibaca, pasti.\n\nTerima kasih kepada Bapak Lukman Hakim Saifuddin (Menteri Agama RI) yang memberi Kata Sambutan pada penerbitan buku Capita Selecta Zakat. Juga kepada sahabat Hilman Latief, para tokoh dan expertise ekonomi-keuangan syariah yang telah memberi testimoni pada buku ini.",
+      "author": "M. Fuad Nasar",
+      "publisher": "-",
+      "physical_desc": "-",
+      "isbn": "-",
+      "language": "Indonesia",
+      "preview": "http://alpha14.kiara.baznas.go.id/attachment/pustaka/preview_4_20210924170529",
+      "fullpath": "http://alpha14.kiara.baznas.go.id/attachment/pustaka/book_4_20210924170529",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 17:05:22"
+    },
+    {
+      "book_id": "2",
+      "provinces_code": "99",
+      "cities_code": "77",
+      "institution_types_code": "2",
+      "institution_serial_no": "00",
+      "year": "2018",
+      "title": "Ekonomi Kurban",
+      "short_desc": "“Ekonomi Kurban” adalah tema yang dipilih pada buku ini. Buku ini menggambarkan tentang bagaimana keterkaitan antara praktek ibadah kurban dan konsep dan praktek sosial, ekonomi, dan manajemen. Pada satu sisi, kurban merupakan sebuah instrumen penghambaan seorang muslim kepada Tuhannya (Allah SWT) yang beririsan langsung dengan sektor ekonomi ummat sekaligus berdampak sosial. kurban mempunyai tujuan untuk meningkatkan kesejahteraan dan memberikan keadilan bagi mustadháfin atau orang-orang lemah, rentan serta terpinggirkan. Sementara di sisi lain, belum terdapat literatur yang secara langsung dan teringkas menjadi satu yang membahas kaitan antara kurban dan sosial, ekonomi, dan manajemen.",
+      "synopsis": "",
+      "author": "Prof. Dr. Bambang Sudibyo, MBA, CA, Emmy Hamidiyah, Wahyu Jatmiko, Abdillah Ahsan, Rahmatina A. Kasri, Arifin Purwakananta, Nana Mintarti, Ajat Sudrajat, Irfan Syauqi Beik, Irsyadul Halim, Satori Ismail, KH Masdar F. Mas’ud, Zainulbahar Noor, Azizon",
+      "publisher": "BAZNAS : Jakarta., 2018",
+      "physical_desc": "Hal:168",
+      "isbn": "-",
+      "language": "Indonesia",
+      "preview": "http://alpha14.kiara.baznas.go.id/attachment/pustaka/preview_3_20210924144129",
+      "fullpath": "http://alpha14.kiara.baznas.go.id/attachment/pustaka/book_3_20210924144129",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 14:41:29"
     }
   ],
   "profile": {
