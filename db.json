@@ -36,14 +36,39 @@
       "physical_desc": "Hal:168",
       "isbn": "-",
       "language": "Indonesia",
-      "preview": "http://alpha14.kiara.baznas.go.id/attachment/pustaka/preview_3_20210924144129",
-      "fullpath": "http://alpha14.kiara.baznas.go.id/attachment/pustaka/book_3_20210924144129",
+      "preview": "preview_3_20210924144129",
+      "fullpath": "book_3_20210924144129",
       "is_deleted": "0",
       "submitted_by": "baznasprov.demo@baznas.or.id",
       "submitted_date": "2021-09-24 14:41:29"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "klipping-berita": [
+    {
+      "id": "1",
+      "title": "BAZNAS Targetkan Pengumpulan Zakat Nasional 2022 Rp 26 Triliun",
+      "source_url": "https://republika.co.id/",
+      "author": "Humas BAZNAS",
+      "date": "05/01/2022",
+      "short_desc": "&lt;p&gt;Badan Amil Zakat Nasional (BAZNAS) menargetkan pengumpulan Zakat Infak Sedekah (ZIS) dan",
+      "path": "Mjc2ODE2NDE0MzMzODc.jpeg",
+      "status": "APPROVED",
+      "is_deleted": "0",
+      "submitted_by": "masud@baznas.go.id",
+      "submitted_date": "2022-01-06 08:43:07"
+    },
+    {
+      "id": "2",
+      "title": "Ketua BAZNAS Lantik Sestama, Deputi dan 41 Pejabat BAZNAS",
+      "source_url": "https://republika.co.id/",
+      "author": "Humas BAZNAS",
+      "date": "05/01/2022",
+      "short_desc": "&lt;p&gt;Badan Amil Zakat Nasional (BAZNAS) menargetkan pengumpulan Zakat Infak Sedekah (ZIS) dan",
+      "path": "Mjc2ODE2NDE0MzMzODc.jpeg",
+      "status": "APPROVED",
+      "is_deleted": "0",
+      "submitted_by": "masud@baznas.go.id",
+      "submitted_date": "2022-01-06 08:43:07"
+    },
+  ]
 }
