@@ -70,5 +70,56 @@
       "submitted_by": "masud@baznas.go.id",
       "submitted_date": "2022-01-06 08:43:07"
     }
+  ],
+  "szn": [
+    {
+      "szn_id": "1",
+      "judul": "STATISTIK ZAKAT NASIONAL 2019",
+      "preview": "preview_3_20210626145149",
+      "tahun": "2019",
+      "fullpath": "statistik_3_20210626145149",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 14:41:29"
+    },
+    {
+      "szn_id": "2",
+      "judul": "STATISTIK ZAKAT NASIONAL 2018",
+      "preview": "preview_4_20210626215342",
+      "tahun": "2018",
+      "fullpath": "statistik_4_20210626215343",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 14:41:29"
+    }
+  ],
+  "laz": [
+    {
+      "laz_id": "1",
+      "nama": "LAZ Rumah Zakat Indonesia",
+      "website": "https://dtpeduli.org/",
+      "kategori": "Nasional",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 14:41:29"
+    },
+    {
+      "laz_id": "2",
+      "nama": "LAZ Baitul Maal FKAM",
+      "website": "#",
+      "kategori": "Provinsi",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 14:41:29"
+    },
+    {
+      "laz_id": "3",
+      "nama": "LAZ Swadaya Ummah",
+      "website": "#",
+      "kategori": "Kota",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 14:41:29"
+    }
   ]
 }
