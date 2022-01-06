@@ -1,7 +1,7 @@
 {
   "pustaka": [
     {
-      "book_id": "1",
+      "id": "1",
       "provinces_code": "99",
       "cities_code": "77",
       "institution_types_code": "2",
@@ -22,7 +22,7 @@
       "submitted_date": "2021-09-24 17:05:22"
     },
     {
-      "book_id": "2",
+      "id": "2",
       "provinces_code": "99",
       "cities_code": "77",
       "institution_types_code": "2",
@@ -73,7 +73,7 @@
   ],
   "szn": [
     {
-      "szn_id": "1",
+      "id": "1",
       "judul": "STATISTIK ZAKAT NASIONAL 2019",
       "preview": "preview_3_20210626145149",
       "tahun": "2019",
@@ -83,7 +83,7 @@
       "submitted_date": "2021-09-24 14:41:29"
     },
     {
-      "szn_id": "2",
+      "id": "2",
       "judul": "STATISTIK ZAKAT NASIONAL 2018",
       "preview": "preview_4_20210626215342",
       "tahun": "2018",
@@ -95,7 +95,7 @@
   ],
   "laz": [
     {
-      "laz_id": "1",
+      "id": "1",
       "nama": "LAZ Rumah Zakat Indonesia",
       "website": "https://dtpeduli.org/",
       "kategori": "Nasional",
@@ -104,7 +104,7 @@
       "submitted_date": "2021-09-24 14:41:29"
     },
     {
-      "laz_id": "2",
+      "id": "2",
       "nama": "LAZ Baitul Maal FKAM",
       "website": "#",
       "kategori": "Provinsi",
@@ -113,7 +113,7 @@
       "submitted_date": "2021-09-24 14:41:29"
     },
     {
-      "laz_id": "3",
+      "id": "3",
       "nama": "LAZ Swadaya Ummah",
       "website": "#",
       "kategori": "Kota",
