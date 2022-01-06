@@ -135,16 +135,7 @@
       "is_deleted": "0",
       "submitted_by": "baznasprov.demo@baznas.or.id",
       "submitted_date": "2021-09-24 14:41:29",
-      "riwayat_organisasi": [
-        {
-          "nama_organisasi": "Majelis Ulama Indonesia Pusat Ketua",
-          "periode": "2020-2025"
-        },
-        {
-          "nama_organisasi": "APTISI Pusat Pengurus",
-          "periode": "2010-2015"
-        }
-      ]
+      "riwayat_organisasi": []
     }
   ]
 }
