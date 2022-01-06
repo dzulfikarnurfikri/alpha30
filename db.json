@@ -156,5 +156,25 @@
         }
       ]
     }
+  ],
+  "penghargaan": [
+    {
+      "id": "1",
+      "nama": "Penghargaan dalam penanggulangan Covid-19 dari BNPB",
+      "tanggal": "2021-03-10",
+      "logo": "2021_BNPB Award.png",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 14:41:29"
+    },
+    {
+      "id": "2",
+      "nama": "TOP Digital Implementation 2020 on Social",
+      "tanggal": "2020-12-22",
+      "logo": "2020_TOP Digital Award.png",
+      "is_deleted": "0",
+      "submitted_by": "baznasprov.demo@baznas.or.id",
+      "submitted_date": "2021-09-24 14:41:29"
+    }
   ]
 }
